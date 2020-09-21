@@ -1,9 +1,9 @@
 
 public class FizzBuzz {
 
-	public static String getResult(int i) {
+	public static String convertInNumber(int i) {
 		
-		return "1";
+		return String.valueOf(i);
 	}
 
 }
